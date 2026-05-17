@@ -14,4 +14,3 @@ vless://16c501f7-2eb8-4c1f-97e9-8e159cc41bf5@1599.195.35.239:443?type=tcp&securi
 
 
 
-D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&type=grpc&serviceName=grpc&sni=cdn.selectel.ru&sid=c1a7e9b4711d5f60#🇫🇲%20Белый%20список%20%7C%20LTE
