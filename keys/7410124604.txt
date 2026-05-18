@@ -15,25 +15,19 @@ vless://16c501f7-2eb8-4c1f-97e9-8e159cc41bf5@159.195.35.239:443?type=tcp&securit
 
 
 
-vless://11df6d3b-7e3b-4a30-83dd-fb4eb7e79f5c@81.90.25.255:443?security=reality&encryption=none&pbk=CWGfbuuzEV6_SOecdsIqgrvl1RjcRcemRdHjxWap1wc&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=71d6a884d0a5#🇩🇪%20Германия
 
-vless://ebe186c0-1006-4b07-8a84-45deaf0bda23@150.241.74.150:443?security=reality&encryption=none&pbk=vB4lhwE3aZhB3vzphogmjJv1VYNedlCTgd5c1Bka_F0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=4a43ca#🇪🇪%20Эстония%20%7C%20Игровой
 
-hysteria2://9ee70e1f-c49b-4b21-a3c5-cd0ab3d0a589@fr.verymad.net:23661?security=tls&fm=%7B%7D&allowinsecure=0&sni=fr.verymad.net#🇫🇷%20Франция%20%7C%20Игровой
+vless://0f517fd0-28bb-4a35-a153-a0950b5bd65d@gr3.netelusion.com:443?type=tcp&security=reality&fp=chrome&sni=gr3.netelusion.com&pbk=PKLgeNYzpsS9fx089U2tnqvzBh_epffwTkM9I-jHLBU&sid=3a7c1e9d4b2f8650&flow=xtls-rprx-vision&encryption=none#🇩🇪%20Германия
 
-vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443?security=reality&encryption=none&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=5d#🇸🇪%20Швеция%20%7C%20Игровой
+vless://0f517fd0-28bb-4a35-a153-a0950b5bd65d@fin1.netelusion.com:443?type=tcp&security=reality&fp=chrome&sni=fin1.netelusion.com&pbk=8NkE0peMw5Yi1BWKOGghY1CRdmEMdaDpufKb4OkCZnY&sid=6d2a1c3e9b4f8837&flow=xtls-rprx-vision&encryption=none#🇫🇮%20Финляндия
 
-vless://cc3bab61-4455-4cea-8564-22e1546af857@94.156.154.130:26514?security=reality&encryption=none&pbk=wea2jSrs5Q-bYs8TV7t23iCeBoC5LyPmV0qoOra1aRk&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d1f4c253a976#🇳🇱%20Нидерланды
+vless://0f517fd0-28bb-4a35-a153-a0950b5bd65d@nl1.elusionvpn.com:443?type=tcp&security=reality&fp=chrome&sni=nl1.elusionvpn.com&pbk=oJ8BNszb0Q4MwP1hlaik0pTzQ7HpCKSdrI-u8xF87m8&sid=dbdaecbd62a6e1c8&flow=xtls-rprx-vision&encryption=none#🇳🇱%20Нидерланды
 
-vless://400c6c68-6565-4a24-b351-0019726cdbeb@77.239.112.35:13639?security=reality&encryption=none&pbk=_5cqPSR4S7l18nxkwVzc8xyzWsWFj2RkPLZJOn-O_RQ&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=fe564a#🇳🇱%20Нидерланды
+vless://0f517fd0-28bb-4a35-a153-a0950b5bd65d@nl1.elusionvpn.com:443?type=tcp&security=reality&fp=chrome&sni=nl1.elusionvpn.com&pbk=oJ8BNszb0Q4MwP1hlaik0pTzQ7HpCKSdrI-u8xF87m8&sid=a8e0d63479cc0da2&flow=xtls-rprx-vision&encryption=none#🇷🇺%20Россия%20%7C%20YouTube
 
-vless://ef14d965-e7fa-4dec-8913-20b4db2ce1a9@ru3.banovano.space:10001?path=%2Fvless-ws&security=none&encryption=none&type=ws#🇷🇺%20Россия%20%7C%20Для%20YouTube
+vless://0f517fd0-28bb-4a35-a153-a0950b5bd65d@se1.netelusion.com:443?type=tcp&security=reality&fp=chrome&sni=se1.netelusion.com&pbk=j2HyQP8XCNN5EJC_R5-vDofA2V1MYZhdLli0aSZTFhw&sid=3c9e1a7d4b2f8673&flow=xtls-rprx-vision&encryption=none#🇸🇪%20Швеция%20%7C%20Игровой
 
-vless://dc540911-cd1d-41e9-9301-ecb5a507b788@ru3.banovano.space:443?security=reality&encryption=none&pbk=JbxZQuL2t4eews1QuA8O4jpsU_NXPMpmzKwlxSQj5Sk&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=f690c1046814dc9d#🇷🇺%20Россия%20%7C%20Для%20YouTube
-
-vless://ec13d921-3072-4e16-b2cd-af709f7f7894@150.241.83.60:443?security=reality&encryption=none&pbk=xDFXqfhZ7-IQiFwXpXltNe2Axo5O33k4LAqDfAVtyz4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=7b#🇺🇸%20США%20%7C%20Для%20ИИ
-
-vless://1486ef6a-b186-4362-a8d2-7be20ee33353@144.31.82.47:18038?security=reality&encryption=none&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=ce9f790791426d83#🇫🇮%20Финляндия
+vless://0f517fd0-28bb-4a35-a153-a0950b5bd65d@es1.showmyhomes.com:443?type=tcp&security=reality&fp=chrome&sni=es1.showmyhomes.com&pbk=-BcAtSrslpdCRBKs_C0kdfz5vV97zD16lYhp3U4pxCU&sid=ffbe4b3e97c9dbf5&flow=xtls-rprx-vision&encryption=none#🇪🇪%20Эстония%20%7C%20Игровой
 
 vless://672313be-a9ad-44b8-b87a-f407abd92c2b@37.9.4.20:443?mode=gun&security=reality&encryption=none&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&type=grpc&serviceName=grpc&sni=cdn.selectel.ru&sid=c1a7e9b4711d5f60#🇫🇲%20Белый%20список%20%7C%20LTE
 
