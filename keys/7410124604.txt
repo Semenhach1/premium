@@ -17,22 +17,30 @@ vless://16c501f7-2eb8-4c1f-97e9-8e159cc41bf5@159.195.35.239:443?type=tcp&securit
 
 
 
-vless://0f517fd0-28bb-4a35-a153-a0950b5bd65d@gr3.netelusion.com:443?type=tcp&security=reality&fp=chrome&sni=gr3.netelusion.com&pbk=PKLgeNYzpsS9fx089U2tnqvzBh_epffwTkM9I-jHLBU&sid=3a7c1e9d4b2f8650&flow=xtls-rprx-vision&encryption=none#🇩🇪%20Германия
+vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:9443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&sid=6ba85179e30d4fc2#🇩🇪 Германия
 
-vless://0f517fd0-28bb-4a35-a153-a0950b5bd65d@fin1.netelusion.com:443?type=tcp&security=reality&fp=chrome&sni=fin1.netelusion.com&pbk=8NkE0peMw5Yi1BWKOGghY1CRdmEMdaDpufKb4OkCZnY&sid=6d2a1c3e9b4f8837&flow=xtls-rprx-vision&encryption=none#🇫🇮%20Финляндия
+vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:8443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&sid=6ba85179e30d4fc2#🇫🇷 Франция
 
-vless://0f517fd0-28bb-4a35-a153-a0950b5bd65d@nl1.elusionvpn.com:443?type=tcp&security=reality&fp=chrome&sni=nl1.elusionvpn.com&pbk=oJ8BNszb0Q4MwP1hlaik0pTzQ7HpCKSdrI-u8xF87m8&sid=dbdaecbd62a6e1c8&flow=xtls-rprx-vision&encryption=none#🇳🇱%20Нидерланды
+vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:8443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&sid=6ba85179e30d4fc2#🇫🇮 Финляндия
 
-vless://0f517fd0-28bb-4a35-a153-a0950b5bd65d@nl1.elusionvpn.com:443?type=tcp&security=reality&fp=chrome&sni=nl1.elusionvpn.com&pbk=oJ8BNszb0Q4MwP1hlaik0pTzQ7HpCKSdrI-u8xF87m8&sid=a8e0d63479cc0da2&flow=xtls-rprx-vision&encryption=none#🇷🇺%20Россия%20%7C%20YouTube
+vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:10443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&fp=chrome&sid=6ba85179e30d4fc2#🇳🇱 Нидерланды
 
-vless://0f517fd0-28bb-4a35-a153-a0950b5bd65d@se1.netelusion.com:443?type=tcp&security=reality&fp=chrome&sni=se1.netelusion.com&pbk=j2HyQP8XCNN5EJC_R5-vDofA2V1MYZhdLli0aSZTFhw&sid=3c9e1a7d4b2f8673&flow=xtls-rprx-vision&encryption=none#🇸🇪%20Швеция%20%7C%20Игровой
+vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@nl.kalina.click:443?type=tcp&security=reality&fp=chrome&sni=nl.kalina.click&pbk=SJWjzrkgvgisLMpKx6DNR3PTPs053MaYoiT_MIo3GA4&sid=822d3ff4b186c0cf&flow=xtls-rprx-vision&encryption=none#🇳🇱%20Нидерланды
 
-vless://0f517fd0-28bb-4a35-a153-a0950b5bd65d@es1.showmyhomes.com:443?type=tcp&security=reality&fp=chrome&sni=es1.showmyhomes.com&pbk=-BcAtSrslpdCRBKs_C0kdfz5vV97zD16lYhp3U4pxCU&sid=ffbe4b3e97c9dbf5&flow=xtls-rprx-vision&encryption=none#🇪🇪%20Эстония%20%7C%20Игровой
+vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:11443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&sid=f690c1046814dc9d#🇬🇧 Великобритания
 
-vless://672313be-a9ad-44b8-b87a-f407abd92c2b@37.9.4.20:443?mode=gun&security=reality&encryption=none&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&type=grpc&serviceName=grpc&sni=cdn.selectel.ru&sid=c1a7e9b4711d5f60#🇫🇲%20Белый%20список%20%7C%20LTE
+vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:12443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.github.com&fp=chrome&sid=f690c1046814dc9d#🇪🇪 Эстония
 
-vless://672313be-a9ad-0191-b87a-f407abd92c2b@37.9.4.20:443?mode=gun&security=reality&encryption=none&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&type=grpc&serviceName=grpc&sni=cdn.selectel.ru&sid=c1a7e9b4711d5f60#🇫🇲%20Белый%20список%20%7C%20LTE
+vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:13443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&sid=f690c1046814dc9d#🇰🇿 Казахстан
 
-vless://672313be-a9ad-09c5-b87a-f407abd92c2b@37.9.4.20:443?mode=gun&security=reality&encryption=none&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&type=grpc&serviceName=grpc&sni=cdn.selectel.ru&sid=c1a7e9b4711d5f60#🇫🇲%20Белый%20список%20%7C%20LTE
+vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@pl.kalina.click:443?type=tcp&security=reality&fp=chrome&sni=pl.kalina.click&pbk=SJWjzrkgvgisLMpKx6DNR3PTPs053MaYoiT_MIo3GA4&sid=6aeebd03266e05a5&flow=xtls-rprx-vision&encryption=none#🇵🇱%20Польша
 
-vless://672313be-a9ad-20d1-b87a-f407abd92c2b@37.9.4.20:443?type=grpc&serviceName=grpc&security=reality&sni=cdn.selectel.ru&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&encryption=none#🇫🇲%20Белый%20список%20%7C%20LTE
+vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@cz.kalina.click:443?type=tcp&security=reality&fp=chrome&sni=cz.kalina.click&pbk=SJWjzrkgvgisLMpKx6DNR3PTPs053MaYoiT_MIo3GA4&sid=420e1655d52576dd&flow=xtls-rprx-vision&encryption=none#🇨🇿%20Чехия
+
+vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@yand2.kalina.click:443?type=grpc&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=3bLcdaQ3k4ZMpqNztBHhAo2gGWdeyEXRckjm6grRxnQ&sid=9236b2d2dd2b6d2d&encryption=none#🇫🇲%20Белый%20список%20%7C%20LTE
+
+vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@yand2.kalina.click:443?type=grpc&security=reality&fp=chrome&sni=ads.x5.ru&pbk=NF2QnB0wN8cBg07Cw-6QmFwefTOrCgAsj2DqQbH5WmM&sid=f171e61d11c12569&encryption=none#🇫🇲%20Белый%20список%20%7C%20LTE
+
+vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@yand2.kalina.click:443?type=grpc&security=reality&fp=chrome&sni=apiok.ru&pbk=V3KRgpdYyhJYJXAOmpgBtWJznSrL-Mr7GcoghnsM1Vg&sid=811952ca34ddfd3b&encryption=none#🇫🇲%20Белый%20список%20%7C%20LTE
+
+vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@yand2.kalina.click:443?type=grpc&security=reality&fp=chrome&sni=smartcaptcha.yandexcloud.net&pbk=JB4WzKCToBvsXVari0JholndZwDpVKUFn23xE7B_vSk&sid=c1d642a1f12fc49e&encryption=none#🇫🇲%20Белый%20список%20%7C%20LTE
