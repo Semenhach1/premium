@@ -9,8 +9,7 @@
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQv9C+0LrRg9C/0LrRgyDwn6Sd
 #profile-web-page-url: http://vpn.ring-project.ru
 
-vless://16c501f7-2eb8-4c1f-97e9-8e159cc41bf5@159.195.35.239:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#Автоматический ⚡🇩🇪
-
+vless://5be3ecf5-be32-4634-b837-5f45e5087822@159.195.35.239:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#Автоматический ⚡🇩🇪
 
 
 
