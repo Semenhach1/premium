@@ -16,25 +16,23 @@ vless://5be3ecf5-be32-4634-b837-5f45e5087822@159.195.35.239:443?type=tcp&securit
 
 
 
-vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:9443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&sid=6ba85179e30d4fc2#🇩🇪 Германия
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@de2.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de2.c2horizon.app&sid=122218f4c1f172e4#🇩🇪 Германия
 
-vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:8443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&sid=6ba85179e30d4fc2#🇫🇷 Франция
+vless://49a74c22-64e6-4799-aeb7-ae6f51bc1ddf@de.nodes.rocketnetwork.ru:443?security=reality&encryption=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de.nodes.rocketnetwork.ru&sid=428ef87fd47a3a32#🇩🇪 Германия
 
-vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:8443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&sid=6ba85179e30d4fc2#🇫🇮 Финляндия
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@ru.c2horizon.app:443?security=none&encryption=none&headerType=none&type=tcp#🇷🇺 Россия | YouTube
 
-vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:10443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&fp=chrome&sid=6ba85179e30d4fc2#🇳🇱 Нидерланды
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@nl.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.c2horizon.app&sid=122218f4c1f172e4#🇳🇱 Нидерланды
 
-vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@nl.kalina.click:443?type=tcp&security=reality&fp=chrome&sni=nl.kalina.click&pbk=SJWjzrkgvgisLMpKx6DNR3PTPs053MaYoiT_MIo3GA4&sid=822d3ff4b186c0cf&flow=xtls-rprx-vision&encryption=none#🇳🇱%20Нидерланды
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@pl-01.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-01.c2horizon.app&sid=122218f4c1f172e4#🇵🇱 Польша
 
-vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:11443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&sid=f690c1046814dc9d#🇬🇧 Великобритания
+vless://49a74c22-64e6-4799-aeb7-ae6f51bc1ddf@us.nodes.rocketnetwork.ru:443?security=reality&encryption=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=us.nodes.rocketnetwork.ru&sid=428ef87fd47a3a32#🇺🇸 США
 
-vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:12443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.github.com&fp=chrome&sid=f690c1046814dc9d#🇪🇪 Эстония
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@tr.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tr.c2horizon.app&sid=122218f4c1f172e4#🇹🇷 Турция
 
-vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:13443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&sid=f690c1046814dc9d#🇰🇿 Казахстан
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@fr.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fr.c2horizon.app&sid=122218f4c1f172e4#🇫🇷 Франция
 
-vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@pl.kalina.click:443?type=tcp&security=reality&fp=chrome&sni=pl.kalina.click&pbk=SJWjzrkgvgisLMpKx6DNR3PTPs053MaYoiT_MIo3GA4&sid=6aeebd03266e05a5&flow=xtls-rprx-vision&encryption=none#🇵🇱%20Польша
-
-vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@cz.kalina.click:443?type=tcp&security=reality&fp=chrome&sni=cz.kalina.click&pbk=SJWjzrkgvgisLMpKx6DNR3PTPs053MaYoiT_MIo3GA4&sid=420e1655d52576dd&flow=xtls-rprx-vision&encryption=none#🇨🇿%20Чехия
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@ee.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ee.c2horizon.app&sid=122218f4c1f172e4#🇪🇪 Эстония
 
 vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@yand2.kalina.click:443?type=grpc&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=3bLcdaQ3k4ZMpqNztBHhAo2gGWdeyEXRckjm6grRxnQ&sid=9236b2d2dd2b6d2d&encryption=none#🇫🇲%20Белый%20список%20%7C%20LTE
 
@@ -43,3 +41,11 @@ vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@yand2.kalina.click:443?type=grpc&se
 vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@yand2.kalina.click:443?type=grpc&security=reality&fp=chrome&sni=apiok.ru&pbk=V3KRgpdYyhJYJXAOmpgBtWJznSrL-Mr7GcoghnsM1Vg&sid=811952ca34ddfd3b&encryption=none#🇫🇲%20Белый%20список%20%7C%20LTE
 
 vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@yand2.kalina.click:443?type=grpc&security=reality&fp=chrome&sni=smartcaptcha.yandexcloud.net&pbk=JB4WzKCToBvsXVari0JholndZwDpVKUFn23xE7B_vSk&sid=c1d642a1f12fc49e&encryption=none#🇫🇲%20Белый%20список%20%7C%20LTE
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@158.160.150.233:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=cf4d#🇫🇲 Белый список | LTE
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@yabs.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yabs.c2horizon.app&sid=122218f4c1f172e4#🇫🇲 Белый список | LTE
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@158.160.241.119:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=65c7748be8#🇫🇲 Белый список | LTE
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@158.160.252.58:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=dc9998c3#🇫🇲 Белый список | LTE
