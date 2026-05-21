@@ -14,15 +14,19 @@ vless://5be3ecf5-be32-4634-b837-5f45e5087822@159.195.35.239:443?type=tcp&securit
 
 
 
-vless://164acda9-298b-4b66-94bc-df39a1e83ac2@de2.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de2.c2horizon.app&sid=122218f4c1f172e4#🇩🇪 Германия
+vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@de.kalina.click:443?type=tcp&security=reality&fp=chrome&sni=de.kalina.click&pbk=SJWjzrkgvgisLMpKx6DNR3PTPs053MaYoiT_MIo3GA4&sid=a81ec3e523240156&flow=xtls-rprx-vision&encryption=none#🇩🇪%20Германия%20%7C%20Быстрый%20⚡
 
 vless://164acda9-298b-4b66-94bc-df39a1e83ac2@nl.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.c2horizon.app&sid=122218f4c1f172e4#🇳🇱 Нидерланды
 
 vless://164acda9-298b-4b66-94bc-df39a1e83ac2@pl-01.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-01.c2horizon.app&sid=122218f4c1f172e4#🇵🇱 Польша
 
-vless://164acda9-298b-4b66-94bc-df39a1e83ac2@ru.c2horizon.app:443?security=none&encryption=none&headerType=none&type=tcp#🇷🇺%20Россия%20%7C%20YouTube
+vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@fin2.kalina.click:443?type=tcp&security=reality&fp=chrome&sni=fin2.kalina.click&pbk=SJWjzrkgvgisLMpKx6DNR3PTPs053MaYoiT_MIo3GA4&sid=b673a91393c93a71&flow=xtls-rprx-vision&encryption=none#🇫🇮%20Финляндия%20%7C%20Игровой
+
+vless://950b0d3f-55ce-44f3-a3a5-8617700f11c2@fin.kalina.click:443?type=tcp&security=reality&fp=chrome&sni=fin.kalina.click&pbk=SJWjzrkgvgisLMpKx6DNR3PTPs053MaYoiT_MIo3GA4&sid=1ac5e2bfc6ac1b5f&flow=xtls-rprx-vision&encryption=none#🇫🇮%20Финляндия%20%7C%20Игровой%20%7C%20YouTube
 
 vless://164acda9-298b-4b66-94bc-df39a1e83ac2@se.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.c2horizon.app&sid=122218f4c1f172e4#🇸🇪%20Швеция%20%7C%20Игровой
+
+vless://164acda9-298b-4b66-94bc-df39a1e83ac2@ru.c2horizon.app:443?security=none&encryption=none&headerType=none&type=tcp#🇷🇺%20Россия%20%7C%20YouTube
 
 vless://164acda9-298b-4b66-94bc-df39a1e83ac2@tr.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tr.c2horizon.app&sid=122218f4c1f172e4#🇹🇷 Турция
 
