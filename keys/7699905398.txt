@@ -1,0 +1,51 @@
+#providerid CgI0zXWO
+#subscriptions-collapse: 0
+#subscription-ping-onopen-enabled: 1
+#subscription-always-hwid-enable: 1
+#hide-settings: 1
+1#subscription-userinfo: expire=1798750800
+#profile-update-interval: 1
+#profile-title: Ring VPN Premium • ✅ Licenced
+#announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQv9C+0LrRg9C/0LrRgyDwn6Sd
+#profile-web-page-url: http://vpn.ring-project.ru
+
+vless://5be3ecf5-be32-4634-b837-5f45e5087822@159.195.35.239:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#Автоматический ⚡🇩🇪
+
+
+
+
+
+
+
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@de2.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de2.c2horizon.app&sid=122218f4c1f172e4#🇩🇪 Германия
+
+vless://49a74c22-64e6-4799-aeb7-ae6f51bc1ddf@de.nodes.rocketnetwork.ru:443?security=reality&encryption=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de.nodes.rocketnetwork.ru&sid=428ef87fd47a3a32#🇩🇪 Германия
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@se.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.c2horizon.app&sid=122218f4c1f172e4#🇸🇪%20Швеция%20%7C%20Игровой
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@ru.c2horizon.app:443?security=none&encryption=none&headerType=none&type=tcp#🇷🇺 Россия | YouTube
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@nl.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.c2horizon.app&sid=122218f4c1f172e4#🇳🇱 Нидерланды
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@pl-01.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-01.c2horizon.app&sid=122218f4c1f172e4#🇵🇱 Польша
+
+vless://49a74c22-64e6-4799-aeb7-ae6f51bc1ddf@us.nodes.rocketnetwork.ru:443?security=reality&encryption=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=us.nodes.rocketnetwork.ru&sid=428ef87fd47a3a32#🇺🇸 США
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@tr.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tr.c2horizon.app&sid=122218f4c1f172e4#🇹🇷 Турция
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@fr.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fr.c2horizon.app&sid=122218f4c1f172e4#🇫🇷 Франция
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@ee.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ee.c2horizon.app&sid=122218f4c1f172e4#🇪🇪 Эстония
+
+vless://40d50428-131c-401b-82b4-b787b260b183@72.56.248.24:444?security=reality&encryption=none&pbk=PfV2GkrPy77eZqaQVXFrhYQUFZNYO2UrA6dE2Rm1kCQ&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=max.ru&sid=c1a79287ca96c6c6#🇫🇲%20Белый%20список%20%7C%20Билайн%20⚡
+
+vless://40d50428-131c-401b-82b4-b787b260b183@72.56.248.24:444?security=reality&encryption=none&pbk=PfV2GkrPy77eZqaQVXFrhYQUFZNYO2UrA6dE2Rm1kCQ&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=api-maps.yandex.ru&sid=c1a79287ca96c6c6#🇫🇲%20Белый%20список%20%7C%20МТС%20⚡
+
+vless://40d50428-131c-401b-82b4-b787b260b183@72.56.248.24:444?security=reality&encryption=none&pbk=PfV2GkrPy77eZqaQVXFrhYQUFZNYO2UrA6dE2Rm1kCQ&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=ads.x5.ru&sid=c1a79287ca96c6c6#🇫🇲%20Белый%20список%20%7C%20Yota%20⚡
+
+vless://40d50428-131c-401b-82b4-b787b260b183@72.56.248.24:444?security=reality&encryption=none&pbk=PfV2GkrPy77eZqaQVXFrhYQUFZNYO2UrA6dE2Rm1kCQ&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=maps.yandex.ru&sid=c1a79287ca96c6c6#🇫🇲%20Белый%20список%20%7C%20T2%20⚡
+
+vless://40d50428-131c-401b-82b4-b787b260b183@72.56.248.24:444?security=reality&encryption=none&pbk=PfV2GkrPy77eZqaQVXFrhYQUFZNYO2UrA6dE2Rm1kCQ&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=megafon.ru&sid=c1a79287ca96c6c6#🇫🇲%20Белый%20список%20%7C%20Ростелеком%20⚡
+
+vless://40d50428-131c-401b-82b4-b787b260b183@72.56.248.24:8443?security=reality&encryption=none&pbk=PfV2GkrPy77eZqaQVXFrhYQUFZNYO2UrA6dE2Rm1kCQ&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=alfabank.ru&sid=c1a79287ca96c6c6#🇸🇴%20Белый%20список%20%7C%20Резерв%20🌟
