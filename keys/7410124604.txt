@@ -3,38 +3,14 @@
 #subscription-ping-onopen-enabled: 1
 #subscription-always-hwid-enable: 1
 #hide-settings: 1
-1#subscription-userinfo: expire=1798750800
+#subscription-userinfo: expire=1798750800
 #profile-update-interval: 1
-#profile-title: Ring VPN Premium • ✅ Licenced
-#announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQv9C+0LrRg9C/0LrRgyDwn6Sd
+#profile-title: Ring VPN
+#announce: base64:4pqg77iP0J7Qn9Cb0JDQotCY0KLQlSDQn9Ce0JTQn9CY0KHQmtCjICDQkiDQkdCe0KLQleKaoO+4jw==
 #profile-web-page-url: http://vpn.ring-project.ru
 
-vless://5be3ecf5-be32-4634-b837-5f45e5087822@159.195.35.239:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#Автоматический ⚡🇩🇪
+vless://16c501f7-2eb8-4c1f-97e9-8e159cc41bf5@0.0.0.0:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#Ваша подписка истекла ❌
 
 
 
 
-
-vless://b4191559-6ec1-42e7-9afa-7cfcc521445e@de2.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de2.c2horizon.app&sid=122218f4c1f172e4#🇩🇪 Германия
-
-vless://b4191559-6ec1-42e7-9afa-7cfcc521445e@nl.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.c2horizon.app&sid=122218f4c1f172e4#🇳🇱 Нидерланды
-
-vless://b4191559-6ec1-42e7-9afa-7cfcc521445e@pl-01.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-01.c2horizon.app&sid=122218f4c1f172e4#🇵🇱 Польша
-
-vless://b4191559-6ec1-42e7-9afa-7cfcc521445e@ru.c2horizon.app:443?security=none&encryption=none&headerType=none&type=tcp#🇷🇺%20Россия%20%7C%20YouTube
-
-vless://b4191559-6ec1-42e7-9afa-7cfcc521445e@se.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.c2horizon.app&sid=122218f4c1f172e4#🇸🇪%20Швеция%20%7C%20Игровой
-
-vless://b4191559-6ec1-42e7-9afa-7cfcc521445e@tr.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tr.c2horizon.app&sid=122218f4c1f172e4#🇹🇷 Турция
-
-vless://b4191559-6ec1-42e7-9afa-7cfcc521445e@fr.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fr.c2horizon.app&sid=122218f4c1f172e4#🇫🇷 Франция
-
-vless://93b4ebc0-b098-4b92-8b2d-81e0393df084@158.160.117.200:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇫🇲%20Белый%20список%20%7C%20LTE%20⭐
-
-vless://93b4ebc0-b098-4b92-8b2d-81e0393df084@158.160.50.27:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#🇫🇲%20Белый%20список%20%7C%20LTE%20⭐
-
-vless://93b4ebc0-b098-4b92-8b2d-81e0393df084@158.160.116.251:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#🇫🇲%20Белый%20список%20%7C%20LTE%20⭐
-
-vless://93b4ebc0-b098-4b92-8b2d-81e0393df084@158.160.111.68:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇫🇲%20Белый%20список%20%7C%20LTE%20⭐
-
-vless://93b4ebc0-b098-4b92-8b2d-81e0393df084@158.160.170.112:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇫🇲%20Белый%20список%20%7C%20LTE%20⭐
