@@ -6,7 +6,7 @@
 #subscription-userinfo: expire=1798750800
 #profile-update-interval: 1
 #profile-title: Ring VPN
-#announce: base64:4pqg77iP0J7Qn9Cb0JDQotCY0KLQlSDQn9Ce0JTQn9CY0KHQmtCjICDQkiDQkdCe0KLQleKaoO+4jw==
+#announce: base64:0J/QvtC20LDQu9GD0LnRgdGC0LAsINC/0L7Qu9GD0YfQuNGC0LUg0L3QvtCy0YvQuSDQutC70Y7RhyDQsiDQsdC+0YLQtQ==
 #profile-web-page-url: http://vpn.ring-project.ru
 
 vless://16c501f7-2eb8-4c1f-97e9-8e159cc41bf5@0.0.0.0:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#Получите новый
